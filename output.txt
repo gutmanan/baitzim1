@@ -1,0 +1,151 @@
+
+
+addBranch returns: Successfully added Branch 11111111 to SysData
+addBranch returns: Successfully added Branch 22222222 to SysData
+addBranch returns: Successfully added Branch 33333333 to SysData
+addBranch returns: Successfully added Branch 44444444 to SysData
+addBranch returns: Successfully added Branch 55555555 to SysData
+addBranch returns: Successfully added Branch 66666666 to SysData
+addBranch returns: Successfully added Branch 77777777 to SysData
+addBranch returns: Successfully added Branch 88888888 to SysData
+addBranch returns: Successfully added Branch 99999999 to SysData
+addBranch returns: Failed to add new Branch 99999999 to SysData
+addBranch returns: Successfully added Branch 10101010 to SysData
+
+
+
+
+addCoach returns: Successfully added coach 1 to SysData
+addCoach returns: Successfully added coach 2 to SysData
+addCoach returns: Successfully added coach 3 to SysData
+addCoach returns: Successfully added coach 4 to SysData
+addCoach returns: Successfully added coach 5 to SysData
+addCoach returns: Successfully added coach 6 to SysData
+addCoach returns: Successfully added coach 7 to SysData
+addCoach returns: Successfully added coach 8 to SysData
+addCoach returns: Successfully added coach 9 to SysData
+addCoach returns: Failed to add new coach 9 to SysData
+addCoach returns: Successfully added coach 10 to SysData
+
+
+
+
+addReceptionist returns: Successfully added receptionist 11 to SysData
+addReceptionist returns: Successfully added receptionist 12 to SysData
+addReceptionist returns: Successfully added receptionist 13 to SysData
+addReceptionist returns: Successfully added receptionist 14 to SysData
+addReceptionist returns: Failed to add new receptionist 14 to SysData
+addReceptionist returns: Successfully added receptionist 15 to SysData
+addReceptionist returns: Successfully added receptionist 16 to SysData
+
+
+
+
+addCustomer returns: Failed to add new Customer with passport 00099991 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099992 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099993 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099994 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099995 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099996 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099997 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099998 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099999 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099910 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099911 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099912 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099913 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099914 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099915 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099915 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099916 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099917 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099918 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099919 to SysData
+addCustomer returns: Failed to add new Customer with passport 00099920 to SysData
+
+
+
+
+addSubToCustomer returns: Failed to add new subscription 1 to SysData
+addSubToCustomer returns: Failed to add new subscription 2 to SysData
+addSubToCustomer returns: Failed to add new subscription 3 to SysData
+addSubToCustomer returns: Failed to add new subscription 4 to SysData
+addSubToCustomer returns: Failed to add new subscription 6 to SysData
+addSubToCustomer returns: Failed to add new subscription 7 to SysData
+addSubToCustomer returns: Failed to add new subscription 8 to SysData
+addSubToCustomer returns: Failed to add new subscription 9 to SysData
+addSubToCustomer returns: Failed to add new subscription 10 to SysData
+addSubToCustomer returns: Failed to add new subscription 11 to SysData
+addSubToCustomer returns: Failed to add new subscription 12 to SysData
+addSubToCustomer returns: Failed to add new subscription 13 to SysData
+addSubToCustomer returns: Failed to add new subscription 14 to SysData
+addSubToCustomer returns: Failed to add new subscription 15 to SysData
+addSubToCustomer returns: Failed to add new subscription 16 to SysData
+addSubToCustomer returns: Failed to add new subscription 17 to SysData
+addSubToCustomer returns: Failed to add new subscription 19 to SysData
+
+
+
+
+
+
+
+
+connectReceptionistToBranch returns: Successfully connected between receptionist 11 and branch 11111111
+connectReceptionistToBranch returns: Successfully connected between receptionist 12 and branch 22222222
+connectReceptionistToBranch returns: Successfully connected between receptionist 14 and branch 44444444
+connectReceptionistToBranch returns: Successfully connected between receptionist 16 and branch 66666666
+connectReceptionistToBranch returns: Failed to connected between receptionist 19 and branch 99999999
+
+
+
+
+changeCustomerAddress returns: Failed to change address of customer with id: 00099991
+changeCustomerAddress returns: Failed to change address of customer with id: 00099994
+changeCustomerAddress returns: Failed to change address of customer with id: 00099981
+changeCustomerAddress returns: Failed to change address of customer with id: 00099998
+
+
+addRoomToBranch returns: Successfully added room: 1 to branch 11111111 in SysData
+addRoomToBranch returns: Successfully added room: 2 to branch 11111111 in SysData
+addRoomToBranch returns: Successfully added room: 3 to branch 11111111 in SysData
+addRoomToBranch returns: Successfully added room: 1 to branch 22222222 in SysData
+addRoomToBranch returns: Successfully added room: 2 to branch 22222222 in SysData
+addRoomToBranch returns: Successfully added room: 1 to branch 66666666 in SysData
+addRoomToBranch returns: Failed to add room: 1 to branch 66666666 in SysData
+
+
+
+
+
+
+
+
+
+
+
+
+addCustomerToLesson returns: Failed to add customer 00099991 to lesson: 5 in SysData
+addCustomerToLesson returns: Failed to add customer 00099992 to lesson: 2 in SysData
+addCustomerToLesson returns: Failed to add customer 00099992 to lesson: 1 in SysData
+addCustomerToLesson returns: Failed to add customer 00099992 to lesson: 5 in SysData
+addCustomerToLesson returns: Failed to add customer 00099993 to lesson: 3 in SysData
+addCustomerToLesson returns: Failed to add customer 00099993 to lesson: 1 in SysData
+addCustomerToLesson returns: Failed to add customer 00099993 to lesson: 2 in SysData
+addCustomerToLesson returns: Failed to add customer 00099994 to lesson: 1 in SysData
+addCustomerToLesson returns: Failed to add customer 00099991 to lesson: 4 in SysData
+addCustomerToLesson returns: Failed to add customer 00099992 to lesson: 4 in SysData
+addCustomerToLesson returns: Failed to add customer 00099993 to lesson: 4 in SysData
+addCustomerToLesson returns: Failed to add customer 00099994 to lesson: 4 in SysData
+addCustomerToLesson returns: Failed to add customer 00099995 to lesson: 2 in SysData
+addCustomerToLesson returns: Failed to add customer 00099991 to lesson: 1 in SysData
+addCustomerToLesson returns: Failed to add customer 00099992 to lesson: 9 in SysData
+addCustomerToLesson returns: Failed to add customer 00099921 to lesson: 5 in SysData
+
+
+
+
+cancelSubscription returns: Failed to cancel subscription 1
+cancelSubscription returns: Failed to cancel subscription 2
+cancelSubscription returns: Failed to cancel subscription 9
+cancelSubscription returns: Failed to cancel subscription 20
