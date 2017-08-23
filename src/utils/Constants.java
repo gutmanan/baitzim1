@@ -2,8 +2,8 @@ package utils;
 
 /**
 * Class Constants ~ all constants necessary for the system
-* @author Java Course Team 2016
-* @author University Of Haifa-Israel
+ * @author Java Course Team 2017 - Shai Gutman
+ * @author University Of Haifa - Israel
 */
 public final class Constants {
 	
@@ -13,22 +13,12 @@ public final class Constants {
 	public static final int MIN_SUB_ORDERS = 5;
 	
 	/**
-	 * The minimum of an array capacity for instruments in a gym
-	 */
-	public static final int MIN_INSTRUMENT_FOR_GYM = 10;
-	
-	/**
-	 * The minimum of an array capacity for lessons in a room
-	 */
-	public static final int MIN_LESSONS_FOR_ROOM = 15;
-
-	/**
-	 * The minimum of an array capacity for roomRuns per subscription
+	 * The minimum of an array capacity for roomRuns per subscription/room
 	 */
 	public static final int MIN_NUM_OF_ROOMRUNS = 10;
 
 	/**
-	 * The maximum of an array capacity for lessons per subscription
+	 * The maximum of an array capacity for rooms in a single branch
 	 */
 	public static final int MAX_NUM_OF_ROOMS = 8;
 

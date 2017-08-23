@@ -7,8 +7,8 @@ import java.io.IOException;
 /** 
  * A utility class for logging output text to a file
  * note: final means that we can't extends this class
- * @author Java Course Team 2016
- * @author University Of Haifa-Israel
+ * @author Java Course Team 2017 - Shai Gutman
+ * @author University Of Haifa - Israel
  */
 public final class MyFileLogWriter{
 	

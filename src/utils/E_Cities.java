@@ -1,7 +1,7 @@
 package utils;
 
 /**
- * Class Cities ~ represent the city names use in the system
+ * Class Cities ~ represent the city names used in the system
  * @author Java Course Team 2017
  * @author University Of Haifa - Israel
  */
